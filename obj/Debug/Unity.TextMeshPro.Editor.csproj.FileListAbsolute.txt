@@ -1,0 +1,2 @@
+D:\Projects\TestEx\obj\Debug\Unity.TextMeshPro.Editor.csprojResolveAssemblyReference.cache
+D:\Projects\TestEx\obj\Debug\Unity.TextMeshPro.Editor.csproj.CoreCompileInputs.cache

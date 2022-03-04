@@ -1,0 +1,2 @@
+D:\Projects\TestEx\obj\Debug\Unity.Timeline.Editor.csprojResolveAssemblyReference.cache
+D:\Projects\TestEx\obj\Debug\Unity.Timeline.Editor.csproj.CoreCompileInputs.cache
